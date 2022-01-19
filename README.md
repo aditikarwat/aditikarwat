@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @aditikarwat
-- 👀 I’m interested in DataScience and Machine learning
-- 🌱 I’m currently learning Data science
+- 👀 I’m interested in Python
 - 📫 How to reach me @aditikarwat98@gmail.com
 
 <!---
